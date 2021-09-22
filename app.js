@@ -2,7 +2,7 @@ var btInput = document.querySelector("#textInput");
 var inputText = document.querySelector("#txtInput");
 var outputText = document.querySelector("#txtOutput")
 
-var serverUrl = "http://api.funtranslations.com/translate/morse.json"
+var serverUrl = "https://api.funtranslations.com/translate/morse.json"
 function getTranslationUrl(text) {
     return serverUrl + "?" + "text=" + text;
 }
