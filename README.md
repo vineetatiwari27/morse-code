@@ -1,2 +1,2 @@
 # morse-code
- converting english to morse cod
+ converting english to morse code
